@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GourmentOnline.Core.Infraestructure\GourmetOnline.Core.Infraestructure.csproj" />
+    <ProjectReference Include="..\GourmetOnline.Adaptors.SQLServerDataAccess\GourmetOnline.Adaptors.SQLServerDataAccess.csproj" />
+    <ProjectReference Include="..\GourmetOnline.Core.Aplication\GourmetOnline.Core.Aplication.csproj" />
+    <ProjectReference Include="..\GourmetOnline.Core.Domain\GourmetOnline.Core.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>

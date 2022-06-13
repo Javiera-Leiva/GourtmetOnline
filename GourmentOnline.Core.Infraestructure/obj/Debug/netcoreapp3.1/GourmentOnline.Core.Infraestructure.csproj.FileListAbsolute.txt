@@ -1,0 +1,13 @@
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmentOnline.Core.Infraestructure\bin\Debug\netcoreapp3.1\GourmentOnline.Core.Infraestructure.deps.json
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmentOnline.Core.Infraestructure\bin\Debug\netcoreapp3.1\GourmentOnline.Core.Infraestructure.runtimeconfig.json
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmentOnline.Core.Infraestructure\bin\Debug\netcoreapp3.1\GourmentOnline.Core.Infraestructure.runtimeconfig.dev.json
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmentOnline.Core.Infraestructure\bin\Debug\netcoreapp3.1\GourmentOnline.Core.Infraestructure.dll
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmentOnline.Core.Infraestructure\bin\Debug\netcoreapp3.1\GourmentOnline.Core.Infraestructure.pdb
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmentOnline.Core.Infraestructure\obj\Debug\netcoreapp3.1\GourmentOnline.Core.Infraestructure.csproj.AssemblyReference.cache
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmentOnline.Core.Infraestructure\obj\Debug\netcoreapp3.1\GourmentOnline.Core.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmentOnline.Core.Infraestructure\obj\Debug\netcoreapp3.1\GourmentOnline.Core.Infraestructure.AssemblyInfoInputs.cache
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmentOnline.Core.Infraestructure\obj\Debug\netcoreapp3.1\GourmentOnline.Core.Infraestructure.AssemblyInfo.cs
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmentOnline.Core.Infraestructure\obj\Debug\netcoreapp3.1\GourmentOnline.Core.Infraestructure.csproj.CoreCompileInputs.cache
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmentOnline.Core.Infraestructure\obj\Debug\netcoreapp3.1\GourmentOnline.Core.Infraestructure.dll
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmentOnline.Core.Infraestructure\obj\Debug\netcoreapp3.1\GourmentOnline.Core.Infraestructure.pdb
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmentOnline.Core.Infraestructure\obj\Debug\netcoreapp3.1\GourmentOnline.Core.Infraestructure.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetOnline.Core.Domain\bin\Debug\netcoreapp3.1\GourmetOnline.Core.Domain.deps.json
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetOnline.Core.Domain\bin\Debug\netcoreapp3.1\GourmetOnline.Core.Domain.runtimeconfig.json
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetOnline.Core.Domain\bin\Debug\netcoreapp3.1\GourmetOnline.Core.Domain.runtimeconfig.dev.json
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetOnline.Core.Domain\bin\Debug\netcoreapp3.1\GourmetOnline.Core.Domain.dll
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetOnline.Core.Domain\bin\Debug\netcoreapp3.1\GourmetOnline.Core.Domain.pdb
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetOnline.Core.Domain\obj\Debug\netcoreapp3.1\GourmetOnline.Core.Domain.csproj.AssemblyReference.cache
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetOnline.Core.Domain\obj\Debug\netcoreapp3.1\GourmetOnline.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetOnline.Core.Domain\obj\Debug\netcoreapp3.1\GourmetOnline.Core.Domain.AssemblyInfoInputs.cache
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetOnline.Core.Domain\obj\Debug\netcoreapp3.1\GourmetOnline.Core.Domain.AssemblyInfo.cs
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetOnline.Core.Domain\obj\Debug\netcoreapp3.1\GourmetOnline.Core.Domain.csproj.CoreCompileInputs.cache
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetOnline.Core.Domain\obj\Debug\netcoreapp3.1\GourmetOnline.Core.Domain.dll
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetOnline.Core.Domain\obj\Debug\netcoreapp3.1\GourmetOnline.Core.Domain.pdb
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetOnline.Core.Domain\obj\Debug\netcoreapp3.1\GourmetOnline.Core.Domain.genruntimeconfig.cache

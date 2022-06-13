@@ -1,0 +1,8 @@
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetControles\obj\Debug\netcoreapp3.1\GourmetControles.csproj.AssemblyReference.cache
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetControles\obj\Debug\netcoreapp3.1\GourmetControles.GeneratedMSBuildEditorConfig.editorconfig
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetControles\obj\Debug\netcoreapp3.1\GourmetControles.AssemblyInfoInputs.cache
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetControles\obj\Debug\netcoreapp3.1\GourmetControles.AssemblyInfo.cs
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetControles\obj\Debug\netcoreapp3.1\GourmetControles.csproj.CoreCompileInputs.cache
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetControles\obj\Debug\netcoreapp3.1\GourmetControles.MvcApplicationPartsAssemblyInfo.cache
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetControles\obj\Debug\netcoreapp3.1\GourmetControles.RazorAssemblyInfo.cache
+E:\4artoAño\BasedeDatosProgramacion\VisualEstudoCominity\GourmetOnlline\GourmetControles\obj\Debug\netcoreapp3.1\GourmetControles.RazorAssemblyInfo.cs
